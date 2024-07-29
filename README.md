@@ -106,5 +106,6 @@ This project is an ASCII art generator that converts images into ASCII art using
 - **getCharBrightness**
   - Added to retrieve the characters' brightness in the manager class for displaying the charset to the user.
 
-## Notes
-No changes were made to these classes during the project.
+### Contact
+
+For more information or to contribute, please contact Shimon Ifrach at https://www.linkedin.com/in/shimon-ifrach-a022b5215/.
